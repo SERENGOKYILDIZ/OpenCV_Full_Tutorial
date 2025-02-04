@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-######### Blur
+
 img = cv2.imread("Resources/Photos/cats.jpg")
 cv2.imshow("Cats", img)
 
